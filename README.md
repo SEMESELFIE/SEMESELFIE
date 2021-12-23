@@ -2,7 +2,7 @@
 - 👀 I am interested in programming, space
 - 🌱 I am currently studying at school
 - 💞 ️ I want to cooperate with small businesses
-- 📫 You can contact me on telegram: @bottelgram228
+- 📫 You can contact me on telegram: @page_off
 
 <!---
 SEMESELFIE/SEMESELFIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
