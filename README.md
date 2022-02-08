@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @SEMESELFIE
+- 👋 Hi, I'm @SEMES
 - 👀 I am interested in programming, space
 - 🌱 I am currently studying at school
 - 💞 ️ I want to cooperate with small businesses
